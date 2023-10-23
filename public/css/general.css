@@ -15,17 +15,13 @@
     list-style: none;  
 }
 
-.fuente{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size:20px;
-    color:var(--color-negro);
 
-}
+
 .horizontal ul li{
     display: inline-flex;
 }
     
-.menu{
+.menu_der{
     text-align: right;
     background-color: rgba(255, 255, 255, 0.5);
     padding-top: 20px;
@@ -48,11 +44,11 @@
 
 
 h3 {
-    font-family: lato;
-    font-size:40px;
+    font-family: verdana;
+    font-size:15px;
 }    
 
 h1{
-    font-family: lato bold;
-    font-size: 70px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px; 
 }

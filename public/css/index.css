@@ -2,28 +2,28 @@
     background-image: url("/img/emilia-home.jpg");
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 78%;
+    background-size: 81%;
 }
 
 
 .menu_in a{
     margin-left : 40px;
-    margin-bottom: 20px;
+    
     }
     
 .menu_in li{
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-left: 20px;
+   
 }
 
 .icon_in{
-    margin-left : 40px;
+    margin-left : 20px;
 }
 
-h3 {
+.h3_in {
     
-    margin-top: 140px;
-    margin-bottom: 200px;
+    margin-top: 60px;
+    margin-bottom: 240px;
     margin-left: 40px;
 }
 
