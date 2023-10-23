@@ -1,0 +1,3 @@
+<img src="img/emilia-home.jpg" alt = "imagen de portada"  width="100%">
+
+<img src="/img/emilia-about.jpg" alt = "best singer uk">  

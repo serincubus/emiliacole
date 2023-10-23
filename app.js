@@ -19,12 +19,7 @@ app.get("/about", (req,res)=>{
 app.get("/music", (req,res)=>{
     res.sendFile(path.join(__dirname, "/views/music.html"));
 })
-
-
-
 app.use(express.static("public"));
-
-
 
 app.listen(3000, ()=>{
     console.log("servidor funcionando en el puerto 3000")
