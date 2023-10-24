@@ -1,0 +1,16 @@
+.section_h1_contact{
+    margin-top: 100px;
+    margin-left: 5px;
+    }
+
+.section_h3_contact{
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-bottom: 20px
+}    
+
+.section2_h3{
+    color: var(--color-verde);
+    margin-bottom:20px;
+    margin-top: 20px;
+}
